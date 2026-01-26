@@ -3,6 +3,9 @@ lab:
   title: 演習 - コンピューティング サービスの監視を構成する
   module: Guided Project - Deploy and configure Azure Monitor
 ---
+この演習では、コンピューティング サービスの監視を構成します。
+
+この演習の所要時間は約 **15** 分です。 <!-- update with estimated duration -->
 
 ## スキルアップ タスク
 

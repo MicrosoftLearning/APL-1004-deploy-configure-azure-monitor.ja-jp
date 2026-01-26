@@ -3,6 +3,9 @@ lab:
   title: 演習 - Web アプリを監視する
   module: Guided Project - Deploy and configure Azure Monitor
 ---
+この演習では、Web アプリの Azure Monitor の構成を準備します。
+
+この演習の所要時間は約 **20** 分です。 <!-- update with estimated duration -->
 
 ## スキルアップ タスク
 
