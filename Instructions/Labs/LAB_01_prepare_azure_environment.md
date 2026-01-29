@@ -3,6 +3,9 @@ lab:
   title: Azure 環境を準備する
   module: Guided Project - Deploy and configure Azure Monitor
 ---
+この演習では、ガイド付きプロジェクトの環境を準備します。
+
+この演習の所要時間は約 **30** 分です。 <!-- update with estimated duration -->
 
 ## サブスクリプション持ち込み (BYOS) を準備する
 

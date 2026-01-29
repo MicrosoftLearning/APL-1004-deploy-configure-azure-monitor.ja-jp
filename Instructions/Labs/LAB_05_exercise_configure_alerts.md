@@ -3,8 +3,11 @@ lab:
   title: 演習 - アラートを構成する
   module: Guided Project - Deploy and configure Azure Monitor
 ---
+この演習では、アラートとアクションを構成します。
 
-## スキル タスク
+この演習の所要時間は約 **10** 分です。 <!-- update with estimated duration -->
+
+## スキルアップ タスク
 
 - メールを送信するアクション グループの作成
 - 仮想マシンの CPU 使用率に関するアラートの作成
@@ -25,7 +28,7 @@ lab:
     | リソース グループ  | rg-alpha   |
     | リージョン    | グローバル  |
     | アクション グループ名 | NotifyCPU  |
-    | Display Name  | NotifyCPU  |
+    | 表示名  | NotifyCPU  |
 
 6. **[通知]** ページで、通知の種類を **[メール/SMS メッセージ/プッシュ/音声]** に設定し、**[NotificationEmail]** に名前を設定します。 鉛筆アイコンの **[編集]** を選択します。
 1. [メール/SMS メッセージ/プッシュ/音声] で **[メール]** のチェックボックスを有効にし、アドレス **prime@fabrikam.com** を入力します。 **OK** を選択します。 
