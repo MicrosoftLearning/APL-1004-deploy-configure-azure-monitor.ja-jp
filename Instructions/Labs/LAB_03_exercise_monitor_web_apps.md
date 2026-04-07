@@ -2,7 +2,18 @@
 lab:
   title: 演習 - Web アプリを監視する
   module: Guided Project - Deploy and configure Azure Monitor
+  description: App Service でホストされている Web アプリケーション用に Azure Monitor を構成します。 Application Insights を有効にし、HTTP と SQL の診断ログを Log Analytics ワークスペースにルーティングして、ファイルと構成の変更を追跡できるようにします。
+  duration: 20 minutes
+  level: 300
+  islab: true
+  primarytopics:
+    - Azure Monitor
+    - Application Insights
+    - App Service
+    - Diagnostic Settings
+    - SQL Insights
 ---
+
 この演習では、Web アプリの Azure Monitor の構成を準備します。
 
 この演習の所要時間は約 **20** 分です。 <!-- update with estimated duration -->

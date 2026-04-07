@@ -2,7 +2,17 @@
 lab:
   title: 演習 - アラートを構成する
   module: Guided Project - Deploy and configure Azure Monitor
+  description: Azure Monitor でアラートと通知を構成します。 メール アクション グループを作成し、仮想マシンの CPU 使用率アラート ルールを定義します。
+  duration: 10 minutes
+  level: 200
+  islab: true
+  primarytopics:
+    - Azure Monitor
+    - Alerts
+    - Action Groups
+    - Virtual Machines
 ---
+
 この演習では、アラートとアクションを構成します。
 
 この演習の所要時間は約 **10** 分です。 <!-- update with estimated duration -->
