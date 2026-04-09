@@ -2,7 +2,19 @@
 lab:
   title: 演習 - コンピューティング サービスの監視を構成する
   module: Guided Project - Deploy and configure Azure Monitor
+  description: Windows 仮想マシンのデータ収集エンドポイントとデータ収集ルールを作成して、コンピューティング サービス用に Azure Monitor を構成します。 IIS ログ収集を既存のルールに追加し、Linux 仮想マシン用にネットワーク接続モニターを構成します。
+  duration: 15 minutes
+  level: 300
+  islab: true
+  primarytopics:
+    - Azure Monitor
+    - Data Collection Rules
+    - Data Collection Endpoints
+    - IIS Logs
+    - Network Connection Monitor
+    - Network Watcher
 ---
+
 この演習では、コンピューティング サービスの監視を構成します。
 
 この演習の所要時間は約 **15** 分です。 <!-- update with estimated duration -->

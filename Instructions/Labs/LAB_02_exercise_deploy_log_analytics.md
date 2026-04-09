@@ -2,7 +2,19 @@
 lab:
   title: 演習 - Log Analytics をデプロイする
   module: Guided Project - Deploy and configure Azure Monitor
+  description: Log Analytics ワークスペースをデプロイし、データ収集ルールを使って Linux 仮想マシンで Azure Monitor エージェントを構成します。 KQL クエリを使ってデータ インジェストを検証し、ロールベースのアクセス制御を使ってワークスペース アクセスを構成します。
+  duration: 10 minutes
+  level: 300
+  islab: true
+  primarytopics:
+    - Azure Monitor
+    - Log Analytics
+    - Data Collection Rules
+    - Azure Monitor Agent
+    - KQL
+    - Role-Based Access Control
 ---
+
 この演習では、Azure Monitor のログ分析を構成します。
 
 この演習の所要時間は約 **10** 分です。 <!-- update with estimated duration -->
