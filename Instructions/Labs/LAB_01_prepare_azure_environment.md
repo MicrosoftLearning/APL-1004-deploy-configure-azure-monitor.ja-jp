@@ -2,7 +2,19 @@
 lab:
   title: Azure 環境を準備する
   module: Guided Project - Deploy and configure Azure Monitor
+  description: 監視に重点を置いたガイド付きプロジェクト用に Azure 環境を準備します。 リソース グループ、セキュリティ グループ、Windows および Linux 仮想マシン、Web アプリと SQL データベースをプロビジョニングします。
+  duration: 30 minutes
+  level: 300
+  islab: true
+  primarytopics:
+    - Resource Groups
+    - Microsoft Entra ID
+    - Virtual Machines
+    - App Service
+    - Azure SQL Database
+    - ARM Templates
 ---
+
 この演習では、ガイド付きプロジェクトの環境を準備します。
 
 この演習の所要時間は約 **30** 分です。 <!-- update with estimated duration -->
